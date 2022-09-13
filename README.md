@@ -1,2 +1,2 @@
 # Data-Science-Project
-My collection ofl Data Science Project to enhance my skills for EDA, FE, Data Cleaning and Predictive Modeling
+My personal collection of Data Science Project to enhance my skills for Data Cleaning, EDA, FE and Predictive Modeling.
